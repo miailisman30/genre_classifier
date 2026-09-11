@@ -1,4 +1,5 @@
 # A few things
+
 I haven't started this project, just worked on the base file structure; abandoned before it even started.
 Might do something with it on the future.
 The scope for it was a CNN model that, with the help of some funny linear algebra calculated after compiling a stereogram from a piece of 5s sound-bite, would classify your song based on genre:
